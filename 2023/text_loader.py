@@ -4,5 +4,3 @@ def main(day, year):
     for line in file:
         puzzle_input.append(line.rstrip())
     return puzzle_input
-
-print(main(1,2023))
